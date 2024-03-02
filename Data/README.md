@@ -14,5 +14,6 @@ https://drive.google.com/drive/folders/1W1JRR8Z0wU12zIF-W_iTKfUMBzhN14Im?usp=sha
 
 3. 산림입지토양도
  
-<img width="312" alt="image" src="https://github.com/meowmoeww/K-water_contest/assets/108134848/d48f88aa-a0f8-475f-9c70-b8eda3f222e8">
+<img width="245" alt="image" src="https://github.com/meowmoeww/K-water_contest/assets/108134848/a5f3dda4-d1a1-4898-b9f0-ce4b9f0dda63">
+
 
