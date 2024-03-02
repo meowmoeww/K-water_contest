@@ -20,5 +20,4 @@
 - - - 
 
 ### 분석 과정 
-
-<img width="459" alt="image" src="https://github.com/meowmoeww/K-water_contest/assets/108134848/fde69bde-d809-4e0a-9fc8-bea87c40618d">
+![image](https://github.com/meowmoeww/Hackathon-of-ideas-for-solving-future-social-problems-using-big-data/assets/89447043/d006b22a-fe90-431f-9625-1c988f64bdd2)
