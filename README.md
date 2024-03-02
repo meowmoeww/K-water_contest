@@ -14,3 +14,5 @@
 ### 데이터 수집 및 전처리
 - - - 
 ### 분석 과정 
+
+<img width="459" alt="image" src="https://github.com/meowmoeww/K-water_contest/assets/108134848/fde69bde-d809-4e0a-9fc8-bea87c40618d">
